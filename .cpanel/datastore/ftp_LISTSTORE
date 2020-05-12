@@ -1,0 +1,1 @@
+{"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","error":0,"exit_code":0,"mode":"simple","status":1,"data":[{"type":"main","homedir":"/home/nsonlinekhabar","user":"nsonlinekhabar"},{"homedir":"/etc/apache2/logs/domlogs/nsonlinekhabar","type":"logaccess","user":"nsonlinekhabar_logs"}],"timeout":0,"action":"fetch","version":"2.4"}

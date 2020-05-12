@@ -1,0 +1,722 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201904 will be lost/reset.
+# Last config file used to build this data file was /home/nsonlinekhabar/tmp/awstats/ssl/awstats.nsonlinekhabar.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2025                
+POS_TIME 2712                
+POS_VISITOR 20976               
+POS_DAY 25287               
+POS_DOMAIN 3622                
+POS_LOGIN 3988                
+POS_ROBOT 4143                
+POS_WORMS 4472                
+POS_EMAILSENDER 4603                
+POS_EMAILRECEIVER 4746                
+POS_SESSION 26000               
+POS_SIDER 26210               
+POS_FILETYPES 4881                
+POS_DOWNLOADS 5134                
+POS_OS 5182                
+POS_BROWSER 5363                
+POS_SCREENSIZE 5880                
+POS_UNKNOWNREFERER 5954                
+POS_UNKNOWNREFERERBROWSER 6101                
+POS_ORIGIN 6243                
+POS_SEREFERRALS 6385                
+POS_PAGEREFS 6529                
+POS_SEARCHWORDS 6794                
+POS_KEYWORDS 6946                
+POS_MISC 2375                
+POS_ERRORS 7005                
+POS_CLUSTER 3844                
+POS_SIDER_404 7262                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190501021717 1193 330875 10024946917796
+FirstTime 20190406053806
+LastTime 20190430172848
+LastUpdate 20190501095041 1193 0 1192 0 0
+TotalVisits 148                 
+TotalUnique 84                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 113                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+AddToFavourites 0 94 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 97 189 58835784 25 225 3017915
+1 48 247 117948972 39 389 14300107
+2 203 760 275893354 133 1474 48939175
+3 123 819 473200172 71 701 31688531
+4 85 833 480436715 46 415 42475761
+5 77 761 444226773 43 327 6294516
+6 25 80 11335133 15 31 348712
+7 39 213 80957514 22 195 4375745
+8 0 0 0 1 1 36686
+9 4 4 215675 1 4 188558
+10 24 252 167437237 9 114 3123551
+11 27 125 45165127 14 285 5669278
+12 48 164 17846072 38 832 5360247
+13 117 571 292548344 42 614 36297291
+14 217 1079 422688618 146 1254 144591661
+15 100 442 177668692 78 586 28838185
+16 107 527 306608218 83 918 101510872
+17 86 137 14688103 45 791 11538173
+18 4 4 291234 12 12 460660
+19 1 1 27086 2 16 329941
+20 1 1 152596 1 1 146205
+21 33 42 9089276 282 422 2275559
+22 21 60 9952951 8 110 1098760
+23 59 197 38517634 32 1024 10557447
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+np 1463 6814 3164300951
+us 45 301 114614466
+de 19 196 112561247
+eu 6 6 321291
+ie 6 115 16509204
+gb 2 2 164643
+au 2 66 35784441
+fr 2 2 82314
+in 1 6 1392723
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+facebookexternalhit/ 302 175520721 20190430171540 0
+no_user_agent 79 82748198 20190424042417 0
+bingbot/ 11 1083034 20190430205224 4
+Wget/ 7 438738 20190421032105 0
+Googlebot/ 2 48 20190430101420 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+woff 121 12875908 0 0
+Unknown 1072 34641328 0 0
+png 3257 3265018424 0 0
+jpg 143 4246514 0 0
+svg 24 82342 0 0
+css 1421 62126095 0 0
+gif 2 5090 0 0
+js 1115 38602246 0 0
+html 353 28133333 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+ios_iphone 535 29
+win10 42 4
+Unknown 24 6
+win7 560 154
+macosx12 1 1
+linuxandroid 866 81
+macosx6 1 1
+linux 5479 1270
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+chrome74.0.3729.112 127 9
+chrome73.0.3683.86 93 45
+firefox58.0 4 4
+safari12.1 211 8
+safari 59 4
+safari11.0 2 1
+firefox64.0 40 2
+safari12.0 112 6
+iphone 111 8
+chrome64.0.3282.186 2 2
+safari10.0 40 2
+android 4 4
+safari11.0.3 1 1
+Unknown 24 6
+opera58.0.3135.132 40 2
+chrome73.0.3683.90 638 61
+chrome10.0.648.133 1 1
+chrome40.0.2214.85 1 1
+chrome70.0.3538.67 97 4
+chrome49.0.2623.75 24 24
+chrome73.0.3683.103 466 108
+chrome71.0.3578.98 5408 1240
+chrome59.0.3071.125 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Go-http-client/1.1 20190429203022
+cortex/1.0 20190430171542
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+cortex/1.0 20190430171542
+Go-http-client/1.1 20190429203022
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 403 425
+From1 0 0
+From2 0 0
+From3 45 45
+From4 1098 7038
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://m.facebook.com 31 31
+https://l.facebook.com 8 8
+https://www.facebook.com 4 4
+https://l.facebook.com/l.php 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 13
+421 32 10304
+503 4 41506
+302 406 162864
+400 2 0
+413 14 2965336
+419 14 145138
+500 81 40871018
+206 434 106045965
+404 9216 91886658
+301 5 1228
+403 13 4706
+405 3 1061018
+401 19 477056
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 137
+/third-party/prettyphoto/js/jquery.prettyPhoto.js 150 https://nsonlinekhabar.com/
+/admin/advertise/edit/global_assets/images/logo_light.png 6 https://nsonlinekhabar.com/admin/advertise/edit/2
+/backend/plugins/fullcalendar/dist/fullcalendar.min.js 487 https://nsonlinekhabar.com/news
+/third-party/fakeloader/fakeLoader.min.js 151 https://nsonlinekhabar.com/
+/third-party/jquery/jquery-migrate-3.0.0.min.js 101 https://nsonlinekhabar.com/
+/public/third-party/counter-up/js/waypoints.min.js 51 https://nsonlinekhabar.com/public/
+/news/images/recent-post/recent-post-1.jpg 3 https://nsonlinekhabar.com/news/%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2-%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%95%E0%A4%AA-:-%E0%A4%A8%E0%A4%B5-%E0%A4%9C%E0%A4%A8%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A5%83%E0%A4%A4%E0%A4%BF-%E0%A4%AF%E0%A5%81%E0%A4%B5%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%B0-%E0%A4%AC%E0%A4%BF%E0%A4%B0%E0%A4%97%E0%A4%82%E0%A4%9C-%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%88%E0%A4%9F%E0%A5%87%E0%A4%A1-%E0%A4%AB%E0%A5%81%E0%A4%9F%E0%A4%AC%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A5%8D%E0%A4%A8%E0%A5%87
+/frontend/css/responsive.css 9 https://nsonlinekhabar.com/
+/images/im3.jpg 68 https://nsonlinekhabar.com/
+/public/third-party/slick/js/slick.min.js 49 https://nsonlinekhabar.com/public/
+/backend/plugins/bootstrap-growl/bootstrap-growl.min.js 547 https://nsonlinekhabar.com/news
+/images/favicon.png 103 https://nsonlinekhabar.com/
+/frontend/css/mystyle.css 368 https://nsonlinekhabar.com/home
+/News/'.$news-%3Eslug.' 5 -
+/admin.%20dashboard 5 https://nsonlinekhabar.com/login
+/public/global_assets/js/plugins/loaders/blockui.min.js 18 https://nsonlinekhabar.com/public/category
+/third-party/isotope/js/isotope.pkgd.min.js 149 https://nsonlinekhabar.com/
+/public/global_assets/js/main/bootstrap.bundle.min.js.map 6 -
+/frontend/third-party/slick/css/slick-theme.css 578 https://nsonlinekhabar.com/
+/frontend/css/style.css 9 https://nsonlinekhabar.com/
+/global_assets/images/logo_light.png 46 https://nsonlinekhabar.com/news
+/admin/ne_ws/edit/global_assets/images/logo_light.png 3 https://nsonlinekhabar.com/admin/ne_ws/edit/41
+/contact.html 1 https://nsonlinekhabar.com/
+/global_assets/js/plugins/loaders/blockui.min.js 458 https://nsonlinekhabar.com/news
+/public/role/edit/global_assets/images/logo_light.png 1 https://nsonlinekhabar.com/public/role/edit/3
+/public/images/im1.jpg 29 https://nsonlinekhabar.com/public/
+/photos/3/img1.jpg 5 https://nsonlinekhabar.com/news/edit/1
+/frontend/third-party/prettyphoto/css/prettyPhoto.css 9 https://nsonlinekhabar.com/
+/public/backend/plugins/bootstrap-growl/bootstrap-growl.min.js 20 https://nsonlinekhabar.com/public/category
+/public/contact.html 1 https://nsonlinekhabar.com/public/
+/third-party/cycle2/jquery.cycle2.js 120 https://nsonlinekhabar.com/
+/images/slide-2.jpg 72 https://nsonlinekhabar.com/
+/admin/videos/edit/global_assets/images/logo_light.png 6 https://nsonlinekhabar.com/admin/videos/edit/1
+/public/frontend/images/bg.jpg 28 https://nsonlinekhabar.com/public/frontend/css/style.css
+/admin/global_assets/images/logo_light.png 181 https://nsonlinekhabar.com/admin/dashboard
+/sub_category/global_assets/images/logo_light.png 1 https://nsonlinekhabar.com/sub_category/add
+/news/global_assets/images/logo_light.png 25 https://nsonlinekhabar.com/news/add
+/frontend/third-party/wow/css/animate.min.css 9 https://nsonlinekhabar.com/
+/admin/permission/global_assets/images/logo_light.png 15 https://nsonlinekhabar.com/admin/permission/add
+/public/third-party/isotope/js/isotope.pkgd.min.js 53 https://nsonlinekhabar.com/public/
+/js/contact.js 151 https://nsonlinekhabar.com/
+/public/images/im2.jpg 28 https://nsonlinekhabar.com/public/
+/show/images/favicon.png 2 https://nsonlinekhabar.com/show/17
+/backend/plugins/bootstrap/dist/js/bootstrap.min.js 964 https://nsonlinekhabar.com/news
+/.well-known/assetlinks.json 2 -
+/frontend/third-party/accordionjs/css/accordion.min.css 9 https://nsonlinekhabar.com/
+/third-party/slick/js/slick.min.js 129 https://nsonlinekhabar.com/
+/third-party/counter-up/js/jquery.counterup.min.js 150 https://nsonlinekhabar.com/
+/frontend/css/default.css 9 https://nsonlinekhabar.com/
+/storage/users/1551057773jpg 344 https://nsonlinekhabar.com/news
+/admin/user/global_assets/images/logo_light.png 3 https://nsonlinekhabar.com/admin/user/index
+/third-party/jquery/jquery-3.2.1.min.js 90 https://nsonlinekhabar.com/
+/admin/videos/global_assets/images/logo_light.png 5 https://nsonlinekhabar.com/admin/videos/add
+/nslogo.jpg 75 https://nsonlinekhabar.com/
+/public/js/contact.js 54 https://nsonlinekhabar.com/public/
+/storage/news/607784fd93b9cc9290f6a5d488545260d06e7215.png 62 https://nsonlinekhabar.com/home
+/public/frontend/third-party/slick/css/slick-theme.css 30 https://nsonlinekhabar.com/public/
+/public/backend/js/jquery.min.js 14 https://nsonlinekhabar.com/public/category
+/public/third-party/imagesloaded/imagesloaded.pkgd.min.js 53 https://nsonlinekhabar.com/public/
+/js/color-switcher.js 152 https://nsonlinekhabar.com/
+/public/backend/plugins/fullcalendar/dist/fullcalendar.min.js 17 https://nsonlinekhabar.com/public/category
+/public/third-party/jquery/jquery-3.2.1.min.js 30 https://nsonlinekhabar.com/public/
+/test.php 4 -
+/backend/img/thumbs-up.png 1 https://nsonlinekhabar.com/admin/gallery
+/frontend/images/bg.jpg 61 https://nsonlinekhabar.com/frontend/css/style.css
+/vendor/laravel-filemanager/css/mfb.css.map 1 -
+/third-party/accordionjs/js/accordion.min.js 154 https://nsonlinekhabar.com/
+/admin/ne_ws/destop 1 https://nsonlinekhabar.com/news/%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A5%87-%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2-%E0%A5%A7%E0%A5%A6-%E0%A4%B2%E0%A4%BE%E0%A4%B2%E0%A4%AE%E0%A4%BE-%E0%A4%97%E0%A4%8F%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A5%80-%E0%A4%AD%E0%A4%BF%E0%A4%B7%E0%A4%A3-%E0%A4%86%E0%A4%97%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A5%80-%28%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%B8%E0%A4%B9%E0%A4%BF%E0%A4%A4%29
+/public/images/slide-2.jpg 28 https://nsonlinekhabar.com/public/
+/public/images/favicon.png 19 https://nsonlinekhabar.com/public/
+/news/edit/new/7e2dd80d3ec17c6558d86e27b88e49a60ecf238a.png 1 https://nsonlinekhabar.com/news/edit/2
+/frontend/icons/icons.css 9 https://nsonlinekhabar.com/
+/backend/js/uploaders/dropzoneDemo.js 5 https://nsonlinekhabar.com/admin/media/add/1
+/user/global_assets/images/logo_light.png 1 https://nsonlinekhabar.com/user/index
+/.git/config 1 -
+/images/slide-3.jpg 72 https://nsonlinekhabar.com/
+/js/custom.js 147 https://nsonlinekhabar.com/
+/storage/news/c64ed3971828bffcbd4a2d5ff8f404dda1cd2e0d.png 62 https://nsonlinekhabar.com/home
+/public/third-party/wow/js/wow.min.js 49 https://nsonlinekhabar.com/public/
+/public/backend/plugins/bootstrap/dist/js/bootstrap.min.js 19 https://nsonlinekhabar.com/public/category
+/public/third-party/counter-up/js/jquery.counterup.min.js 53 https://nsonlinekhabar.com/public/
+/LOGIN 1 -
+/adminlaravel-filemanager 1 https://nsonlinekhabar.com/admin/ne_ws/add
+/images/im1.jpg 71 https://nsonlinekhabar.com/
+/backend/js/jquery.min.js 366 https://nsonlinekhabar.com/news
+/galleries/images/favicon.png 4 https://nsonlinekhabar.com/galleries/1
+/frontend/third-party/fakeloader/fakeLoader.css 9 https://nsonlinekhabar.com/
+/news/images/recent-post/recent-post-3.jpg 3 https://nsonlinekhabar.com/news/%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2-%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%95%E0%A4%AA-:-%E0%A4%A8%E0%A4%B5-%E0%A4%9C%E0%A4%A8%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A5%83%E0%A4%A4%E0%A4%BF-%E0%A4%AF%E0%A5%81%E0%A4%B5%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%B0-%E0%A4%AC%E0%A4%BF%E0%A4%B0%E0%A4%97%E0%A4%82%E0%A4%9C-%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%88%E0%A4%9F%E0%A5%87%E0%A4%A1-%E0%A4%AB%E0%A5%81%E0%A4%9F%E0%A4%AC%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A5%8D%E0%A4%A8%E0%A5%87
+/dashboard 1 -
+/public/images/slide-3.jpg 29 https://nsonlinekhabar.com/public/
+/public/third-party/fakeloader/fakeLoader.min.js 53 https://nsonlinekhabar.com/public/
+/backend/js/uploaders/dropzone.min.js 6 -
+/news/images/recent-post/recent-post-4.jpg 3 https://nsonlinekhabar.com/news/%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2-%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%95%E0%A4%AA-:-%E0%A4%A8%E0%A4%B5-%E0%A4%9C%E0%A4%A8%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A5%83%E0%A4%A4%E0%A4%BF-%E0%A4%AF%E0%A5%81%E0%A4%B5%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%B0-%E0%A4%AC%E0%A4%BF%E0%A4%B0%E0%A4%97%E0%A4%82%E0%A4%9C-%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%88%E0%A4%9F%E0%A5%87%E0%A4%A1-%E0%A4%AB%E0%A5%81%E0%A4%9F%E0%A4%AC%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A5%8D%E0%A4%A8%E0%A5%87
+/public/third-party/cycle2/jquery.cycle2.js 48 https://nsonlinekhabar.com/public/
+/news/images/recent-post/recent-post-2.jpg 3 https://nsonlinekhabar.com/news/%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2-%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%95%E0%A4%AA-:-%E0%A4%A8%E0%A4%B5-%E0%A4%9C%E0%A4%A8%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A5%83%E0%A4%A4%E0%A4%BF-%E0%A4%AF%E0%A5%81%E0%A4%B5%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%B0-%E0%A4%AC%E0%A4%BF%E0%A4%B0%E0%A4%97%E0%A4%82%E0%A4%9C-%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%88%E0%A4%9F%E0%A5%87%E0%A4%A1-%E0%A4%AB%E0%A5%81%E0%A4%9F%E0%A4%AC%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A5%8D%E0%A4%A8%E0%A5%87
+/sub_category/text/javascript 2 https://nsonlinekhabar.com/sub_category/add
+/role/edit/global_assets/images/logo_light.png 1 https://nsonlinekhabar.com/role/edit/3
+/admin/advertise/global_assets/images/logo_light.png 18 https://nsonlinekhabar.com/admin/advertise/add
+/subcategory/images/favicon.png 6 https://nsonlinekhabar.com/subcategory/28
+/news/show/'.$news->slug.' 5 -
+/images/im2.jpg 68 https://nsonlinekhabar.com/
+/public/js/color-switcher.js 55 https://nsonlinekhabar.com/public/
+/global_assets/js/main/bootstrap.bundle.min.js.map 46 -
+/News/%E0%A4%95%E0%A4%A5%E0%A4%BE-:-%E0%A4%9A%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%A8-%E0%A4%B5%E0%A5%83%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%95%E0%A5%8B-%E0%A4%A7%E0%A5%81%E0%A4%B2%E0%A5%8B-! 5 -
+/public/third-party/sidr/js/jquery.sidr.js 47 https://nsonlinekhabar.com/public/
+/frontend/css/custom.css 9 https://nsonlinekhabar.com/
+/public/images/im3.jpg 27 https://nsonlinekhabar.com/public/
+/public/storage/users/1551057773jpg 13 https://nsonlinekhabar.com/public/category
+/js/lightboxgallery-min.js 98 https://nsonlinekhabar.com/galleries/1
+/admin/0dashboard 1 -
+/public/global_assets/images/logo_light.png 12 https://nsonlinekhabar.com/public/category
+/public/third-party/accordionjs/js/accordion.min.js 53 https://nsonlinekhabar.com/public/
+/admin/ne_ws/global_assets/images/logo_light.png 17 https://nsonlinekhabar.com/admin/ne_ws/add
+/storage/news/959f0e826e008c3cac423d8ecfce6d07e22b2b93.png 62 https://nsonlinekhabar.com/home
+/backend/img/if_document_image_add_103475.png 3 https://nsonlinekhabar.com/admin/gallery/add
+/public/third-party/prettyphoto/js/jquery.prettyPhoto.js 52 https://nsonlinekhabar.com/public/
+/news/edit/global_assets/images/logo_light.png 5 https://nsonlinekhabar.com/news/edit/2
+/public/third-party/jquery/jquery-migrate-3.0.0.min.js 43 https://nsonlinekhabar.com/public/
+/admin/popup/global_assets/images/logo_light.png 1 https://nsonlinekhabar.com/admin/popup/add
+/admin/gallery/global_assets/images/logo_light.png 11 https://nsonlinekhabar.com/admin/gallery/add
+/frontend/third-party/sidr/css/jquery.sidr.dark.css 10 https://nsonlinekhabar.com/
+/storage/news/42fa57f3dea63d663acdc8efd8d7d2f80fd2c09e.png 64 https://nsonlinekhabar.com/home
+/public/images/welcomeimg.jpg 28 https://nsonlinekhabar.com/public/
+/frontend/third-party/slick/css/slick.css 9 https://nsonlinekhabar.com/
+/test 4 -
+/images/welcomeimg.jpg 72 https://nsonlinekhabar.com/
+/admin/media/add/global_assets/images/logo_light.png 5 https://nsonlinekhabar.com/admin/media/add/1
+/category/global_assets/images/logo_light.png 2 https://nsonlinekhabar.com/category/add
+/public/nslogo.jpg 30 https://nsonlinekhabar.com/public/
+/third-party/sidr/js/jquery.sidr.js 114 https://nsonlinekhabar.com/
+/public/images/slide-1.jpg 28 https://nsonlinekhabar.com/public/
+/third-party/counter-up/js/waypoints.min.js 144 https://nsonlinekhabar.com/
+/news/images/favicon.png 29 https://nsonlinekhabar.com/news/%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2-%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%95%E0%A4%AA-:-%E0%A4%A8%E0%A4%B5-%E0%A4%9C%E0%A4%A8%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A5%83%E0%A4%A4%E0%A4%BF-%E0%A4%AF%E0%A5%81%E0%A4%B5%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%B0-%E0%A4%AC%E0%A4%BF%E0%A4%B0%E0%A4%97%E0%A4%82%E0%A4%9C-%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%88%E0%A4%9F%E0%A5%87%E0%A4%A1-%E0%A4%AB%E0%A5%81%E0%A4%9F%E0%A4%AC%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A5%8D%E0%A4%A8%E0%A5%87
+/third-party/wow/js/wow.min.js 134 https://nsonlinekhabar.com/
+/third-party/imagesloaded/imagesloaded.pkgd.min.js 149 https://nsonlinekhabar.com/
+/images/slide-1.jpg 72 https://nsonlinekhabar.com/
+/public/js/custom.js 57 https://nsonlinekhabar.com/public/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 113
+43.245.95.98 138 439 60984273 20190430151752
+27.34.68.164 136 276 87035331 20190419063716
+27.34.104.85 129 482 249790343 20190430172848
+27.34.104.45 115 217 9386767 20190408023429
+27.34.104.31 75 1135 693773092 20190429055437
+43.245.95.254 73 186 50195939 20190421031528
+27.34.104.23 64 267 181710830 20190427040358
+27.34.20.2 63 165 8221410 20190406162512
+27.34.68.15 56 370 171272025 20190424015431
+27.34.20.197 50 76 3466960 20190408170813
+163.47.151.123 49 129 25977292 20190412224547
+27.34.104.232 47 194 68635339 20190424042658
+27.34.68.155 46 381 292883061 20190421170502
+27.34.104.73 44 206 85941370 20190420103754
+182.50.66.254 37 423 194680773 20190429031034
+27.34.68.6 37 64 3619720 20190409133549
+27.34.68.59 36 149 63635806 20190429030251
+110.44.127.210 34 213 170641050 20190426165828
+27.34.68.149 31 103 48286248 20190425023623
+27.34.68.240 29 86 45418618 20190419140122
+27.34.69.35 28 234 159679618 20190422155158
+163.47.148.245 24 80 34650984 20190414033313
+139.5.71.169 18 195 112561247 20190424043544
+27.34.68.167 13 71 34931558 20190416020411
+27.34.68.150 11 29 9331281 20190419141502
+163.47.151.76 2 34 2277157 20190410075850
+103.95.16.245 1 6 1392723 20190409171914
+31.13.127.29 0 10 303168 
+69.171.251.5 0 1 1152522 
+66.102.7.15 1 1 46133 20190413023233
+173.252.95.35 0 11 9013367 
+66.220.149.39 0 9 3948481 
+69.171.251.15 0 2 55632 
+66.249.93.40 1 1 47837 20190413021540
+66.102.6.147 7 7 831656 20190427044522
+195.154.61.206 1 1 41157 20190407101820
+114.77.140.224 1 1 41696 20190423231950
+173.252.95.2 1 17 2949448 20190423144827
+31.13.127.12 0 1 27816 
+27.34.68.194 7 72 37603162 20190416142326
+138.197.169.130 1 1 0 20190409044903
+27.34.20.92 3 4 63942 20190409034809
+31.13.115.17 1 21 3471381 20190413024043
+66.102.6.168 4 4 154443 20190414025555
+66.102.6.170 4 4 213085 20190415130821
+69.171.251.16 0 1 1152522 
+51.15.191.81 2 2 164643 20190419111129
+27.34.104.106 10 75 66953173 20190422042033
+27.34.68.230 5 17 797275 20190427071846
+69.171.251.36 0 12 4063834 
+31.13.127.28 2 17 692509 20190413024204
+69.171.251.39 0 1 27816 
+123.243.82.34 1 65 35742745 20190418042722
+93.119.227.91 3 3 319422 20190421032105
+69.171.251.2 0 1 27816 
+69.171.251.31 1 15 4606915 20190423145013
+27.34.70.21 2 38 8891579 20190427063140
+69.171.251.35 0 1 1295548 
+173.252.127.41 0 1 1295548 
+173.252.95.42 0 12 8293009 
+173.252.95.15 1 14 3518972 20190423144831
+113.199.248.210 4 91 59876902 20190424015425
+31.13.127.2 1 14 3281442 20190423150608
+27.34.68.129 6 40 8940716 20190410075750
+66.220.149.11 0 6 2503068 
+66.220.149.9 1 7 3205740 20190423135509
+93.119.227.34 2 2 1246 20190406063807
+31.13.127.30 0 1 27816 
+173.252.95.5 0 13 6519884 
+173.252.95.7 0 15 12261705 
+31.13.127.17 0 1 27816 
+69.171.251.32 0 2 1478136 
+54.200.127.5 1 1 22211 20190409181542
+66.220.149.26 0 4 167472 
+69.171.251.6 0 1 27816 
+163.47.148.144 7 42 2052748 20190430164112
+35.162.208.192 1 1 112320 20190417154257
+69.171.251.38 0 10 4121811 
+103.232.231.98 11 43 2305370 20190406120409
+31.13.127.26 0 12 2697632 
+54.202.214.85 1 1 152596 20190429203022
+103.10.28.155 2 31 19884149 20190429151746
+138.246.253.5 1 1 0 20190424180616
+27.34.104.76 1 1 40961 20190408035835
+173.252.95.29 1 22 16307152 20190422144102
+27.34.68.7 7 95 69488731 20190426031928
+31.13.127.20 1 14 4503624 20190423150606
+27.34.68.193 7 55 41447556 20190415131613
+69.4.89.106 1 1 623 20190406053806
+34.219.75.99 1 1 40961 20190406141902
+66.102.6.148 2 2 235908 20190420022507
+31.13.127.5 0 10 1149284 
+202.51.93.16 7 37 10617711 20190411014728
+66.220.149.30 0 3 115971 
+27.34.104.84 4 97 65600059 20190426161507
+69.171.251.3 2 28 6286976 20190423135413
+51.255.109.162 1 1 41157 20190408134525
+54.245.40.214 1 1 155216 20190425185608
+69.171.251.29 1 17 2751003 20190423145009
+34.223.233.68 1 1 27086 20190420193948
+93.119.227.19 1 1 623 20190406053806
+31.13.115.2 1 14 326716 20190413024046
+69.171.251.26 0 1 1295548 
+66.102.6.166 4 4 183147 20190414233449
+69.171.251.17 0 1 1295548 
+69.4.87.74 3 3 158729 20190418185110
+173.252.95.10 0 9 3690287 
+27.34.20.121 11 27 2826560 20190409145904
+173.252.95.37 1 17 8254713 20190422144059
+66.220.149.1 1 11 410820 20190423135458
+66.102.6.149 1 1 109619 20190416141243
+202.51.93.6 2 40 10483512 20190424035003
+69.171.251.25 0 1 27816 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20190406 85 232 11069513 12
+20190407 104 219 9654727 5
+20190408 72 98 4368298 6
+20190409 106 235 15428713 14
+20190410 9 75 11240106 4
+20190411 8 38 10657931 2
+20190412 51 131 26057744 4
+20190413 109 229 18203796 10
+20190414 65 228 80456226 7
+20190415 31 238 128977047 5
+20190416 12 78 38225559 4
+20190417 2 2 221935 2
+20190418 5 123 71801397 5
+20190419 177 392 141908667 5
+20190420 49 262 108518912 6
+20190421 62 454 317329200 7
+20190422 44 424 289218380 7
+20190423 65 634 228163986 14
+20190424 39 433 235220103 7
+20190425 32 104 48441464 2
+20190426 46 406 305888195 7
+20190427 72 324 191586954 5
+20190429 125 1519 897172011 5
+20190430 176 630 255920416 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 11
+30mn-1h 17
+15mn-30mn 8
+1h+ 10
+30s-2mn 12
+0s-30s 81
+2mn-5mn 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 149
+/ 322 26889799 99 63
+/home 84 11219387 4 11
+/admin/ne_ws/change-status 69 4976 0 0
+/login 65 634481 13 3
+/frontend/icons/fonts/et-line.woff 60 3313200 6 14
+/news/add 51 1408882 1 2
+/laravel-filemanager/jsonitems 50 346187 0 4
+/admin/ne_ws 44 1734584 0 1
+/admin/dashboard 38 706468 0 0
+/admin/advertise/add 37 985420 0 1
+/admin/ne_ws/add 34 965912 1 1
+/laravel-filemanager/folders 33 11022 0 0
+/news/%E0%A4%AC%E0%A4%BE%E0%A4%97%E0%A4%A6%E0%A5%87%E0%A4%B5-%E0%A4%A6%E0%A5%81%E0%A4%97%E0%A5%8D%E0%A4%A7-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8B-%E0%A5%A8%E0%A5%A9-%E0%A4%94%E0%A4%82-%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B5-%E0%A4%83-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%BF-%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE%E0%A4%88-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A8 31 1360826 3 3
+/public/ 31 1243534 7 3
+/laravel-filemanager 30 679736 1 1
+/admin/permission 29 1043310 0 0
+/global_assets/css/icons/icomoon/fonts/icomoon.woff 29 6330816 0 3
+/laravel-filemanager/errors 28 56 0 0
+/news 25 800466 0 2
+/admin/gallery/add 19 452151 0 0
+/backend/plugins/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff 19 1976000 0 1
+/admin/gallery 19 457154 0 1
+/admin/advertise 19 529711 0 0
+/news/subcategories 16 3992 0 1
+/admin/videos 15 417819 0 1
+/admin/ne_ws/subcategories 13 3919 0 0
+/news/change-status 2 146 0 0
+/subcategory/28 1 28986 0 0
+/show/11 1 22318 0 0
+/news/%E0%A4%B2%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE-%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%98%E0%A4%9F%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%BE-:-%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%95%E0%A4%95%E0%A5%8B-%E0%A4%B8%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A5%A9-%E0%A4%AA%E0%A5%81%E0%A4%97%E0%A5%8D%E0%A4%AF%E0%A5%8B 1 40699 0 0
+/news/%E0%A4%85%E0%A4%AA%E0%A4%A1%E0%A5%87%E0%A4%9F-:-%E0%A4%A8%E0%A5%87%E0%A4%95%E0%A4%AA%E0%A4%BE-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%8F%E0%A4%95%E0%A4%A4%E0%A4%BE:-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%BE-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%A0,-%E0%A4%B8%E0%A4%9A%E0%A4%BF%E0%A4%B5%E0%A4%AE%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE 4 153482 0 1
+/show/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF 14 491371 0 1
+/news/this-is-test-news 2 74172 0 0
+/admin/category 5 222641 0 1
+/admin/sub_category 6 205912 0 1
+/admin/ne_ws/delete 1 52 0 0
+/admin/role 4 100110 0 1
+/laravel-filemanager/crop 1 3644 0 0
+/show/17 3 83967 1 1
+/public/role/edit/3 1 19524 0 0
+/show/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF 1 30243 0 0
+/news/%E0%A4%AE-%E0%A4%B8%E0%A4%AD%E0%A4%BE%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%8B-%E0%A4%89%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%A6%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%BE-%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%BF-%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF-%E0%A4%9B%E0%A5%81-:-%E0%A4%A1%E0%A4%BE.-%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%B0-%E0%A4%95%E0%A5%8B%E0%A4%87%E0%A4%B0%E0%A4%BE%E0%A4%B2%E0%A4%BE 1 38120 0 0
+/news/%E0%A4%A4%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8B-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%95%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AF-%E0%A4%9C%E0%A5%80%E0%A4%A4%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9-%E0%A4%B2%E0%A4%BE%E0%A4%AE%E0%A4%BE-%E0%A4%B0-%E0%A4%B9%E0%A5%87%E0%A4%AE%E0%A4%B2%E0%A4%BE%E0%A4%B2-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%A0-%E0%A4%9C%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%A8-%E0%A4%9C%E0%A4%BE%E0%A4%81%E0%A4%A6%E0%A5%88 1 39430 0 0
+/news/%E0%A4%B8%E0%A4%97%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A5%E0%A4%BE-%E0%A4%B8%E0%A4%BE%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%95-%E0%A4%95%E0%A5%8B%E0%A4%B7-%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A5%AB-%E0%A4%B9%E0%A4%9C%E0%A4%BE%E0%A4%B0-%E0%A4%B8%E0%A4%B9%E0%A4%AF%E0%A5%8B%E0%A4%97 4 163528 1 1
+/admin/advertise/edit/1 6 161970 0 0
+/news/edit/1 6 450486 0 0
+/public/login 6 29700 0 1
+/news/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE-:-%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF-%E0%A4%B5%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%B2-%E0%A4%95%E0%A4%BE%E0%A4%A0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%8C%E0%A4%82%E0%A4%95%E0%A5%8B-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%AE%E0%A4%BE-%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2-%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%B9%E0%A5%8B--%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%A8-%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2 1 81845 0 0
+/news/u-u 1 43634 0 0
+/public/page/subcategory/%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%A8%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80 1 21087 0 0
+/show/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0 3 531675 0 0
+/role 2 48969 0 0
+/admin/videos/edit/5 1 22608 0 0
+/galleries/1 3 67850 0 0
+/news/%E0%A4%95%E0%A4%B2%E0%A5%88%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%BE-%E0%A4%95%E0%A4%B2%E0%A5%88%E0%A4%AF%E0%A4%BE-%E0%A4%95%E0%A4%9F%E0%A5%87%E0%A4%9C-%E0%A4%8F%E0%A4%B5%E0%A4%AE%E0%A5%8D-%E0%A4%AB%E0%A5%87%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A5%80-%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%81%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A5%8B-%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%98%E0%A4%BE%E0%A4%9F%E0%A4%A8 1 41166 0 0
+/news/%E0%A4%AC%E0%A4%BE%E0%A4%97%E0%A4%A6%E0%A5%87%E0%A4%B5-%E0%A4%A6%E0%A5%81%E0%A4%97%E0%A5%8D%E0%A4%A7-%E0%A4%B8%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8B-%E0%A5%A8%E0%A5%A9-%E0%A4%94%E0%A4%82-%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B5%E0%A4%AE%E0%A4%BE-%E0%A4%B8%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B2%E0%A5%87-%E0%A4%A1%E0%A5%87%E0%A4%B0%E0%A5%80-%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97-%E0%A4%B6%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%87 4 174050 1 2
+/news/%E0%A4%9C%E0%A4%A8%E0%A4%B8%E0%A5%83%E0%A4%9C%E0%A4%A8%E0%A4%B6%E0%A5%80%E0%A4%B2-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%A8%E0%A4%AE%E0%A4%BE-%E0%A4%B6%E0%A5%81%E0%A4%AD%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%BE-%E0%A4%A4%E0%A4%A5%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%9A%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE 4 199701 0 0
+/admin/media/add/1 4 89196 0 0
+/public/category 3 117701 0 0
+/news/%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE%E0%A4%AE%E0%A4%BE-%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE-:-%E0%A4%9A%E0%A4%BE%E0%A4%B8%E0%A5%8B,-%E0%A4%9A%E0%A5%81%E0%A4%A8%E0%A5%8C%E0%A4%A4%E0%A5%80-%E0%A4%B0-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A4%A8%E0%A4%BE 1 60644 0 0
+/news/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6-%E0%A5%A8-%E0%A4%AE%E0%A4%BE-%E0%A4%AD%E0%A5%8B%E0%A4%B2%E0%A5%80-%E0%A4%AA%E0%A4%A8%E0%A4%BF-%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%AC%E0%A4%BF%E0%A4%A6%E0%A4%BE 1 31315 0 0
+/public/permission 1 36068 0 0
+/role/edit/3 1 19229 0 0
+/admin/videos/edit/2 1 22455 0 0
+/show/%E0%A4%AE%E0%A4%A8%E0%A5%8B%E0%A4%B0%E0%A4%A8%E0%A5%8D%E0%A4%9C%E0%A4%A8 4 127332 0 1
+/galleries/3 2 41506 0 0
+/news/%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE-%E0%A4%AB%E0%A5%87%E0%A4%B0%E0%A4%BF-%E0%A4%B9%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8B-%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%BE-:-%E0%A4%98%E0%A4%B0%E0%A4%95%E0%A4%BE-%E0%A4%9B%E0%A4%BE%E0%A4%A8%E0%A4%BE-%E0%A4%89%E0%A4%A1%E0%A4%BE%E0%A4%8F,-%E0%A4%B9%E0%A5%81%E0%A4%B0%E0%A5%80-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A4%BE%E0%A4%88-%E0%A4%B8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE 2 70760 0 0
+/news/%E0%A4%B8%E0%A4%A1%E0%A4%95-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%95%E0%A5%8B-%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%AE%E0%A4%BE-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%A8%E0%A4%95%E0%A5%8B-%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%AC%E0%A4%BE%E0%A4%B0-%E0%A4%AD%E0%A4%BE%E0%A4%81%E0%A4%9A%E0%A5%8D%E0%A4%A6%E0%A5%88-%E0%A4%AE%E0%A4%BE%E0%A4%9F%E0%A5%8B-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%96%E0%A4%A8%E0%A4%A8 1 44585 0 0
+/news/%E0%A4%B8%E0%A4%BF%E0%A4%97%E0%A5%8C%E0%A4%82%E0%A4%B2%E0%A4%95%E0%A5%8B-%E0%A4%95%E0%A4%9B%E0%A4%A1%E0%A5%80%E0%A4%AF%E0%A4%BE-%E0%A4%9F%E0%A5%8B%E0%A4%B2%E0%A4%AE%E0%A4%BE-%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3 1 40785 0 0
+/page/subcategory/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C 3 63095 0 0
+/admin/user/index 3 114775 0 1
+/news/%E0%A4%B8%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%80-%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%87-%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%AE%E0%A4%BE 1 37772 0 0
+/admin/videos/edit/1 2 43950 0 0
+/news/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3-%E0%A4%A2%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%8B-%E2%80%98%E0%A4%B9%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%95%E0%A5%8B-%E0%A4%9D%E0%A5%8B%E0%A4%81%E0%A4%95%E0%A4%BE%E2%80%99-%E0%A4%AE%E0%A4%BE-%E0%A4%B8%E0%A4%B0%E0%A5%8B%E0%A4%9C-%E0%A4%96%E0%A4%A8%E0%A4%BE%E0%A4%B2 1 33236 0 0
+/public/role 1 24807 0 0
+/laravel-filemanager/cropimage 1 0 0 0
+/admin/category/change-status 1 76 0 0
+/dashboard 12 212552 0 0
+/show/%E0%A4%96%E0%A5%87%E0%A4%B2%E0%A4%95%E0%A5%81%E0%A4%A6 7 553369 0 0
+/public/frontend/icons/fonts/et-line.woff 9 496980 0 1
+/public/category/change-status 2 154 0 1
+/subcategory/27 2 46212 0 0
+/news/%E0%A4%A7%E0%A4%BE%E0%A4%A6%E0%A4%BF%E0%A4%99%E0%A4%95%E0%A5%8B-%E0%A4%A8%E0%A5%8C%E0%A4%AC%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A4%BE%E0%A4%88-%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%B0-%E0%A4%95%E0%A4%BE%E0%A4%A0%E0%A4%AE%E0%A4%BE%E0%A4%A1%E0%A5%8C%E0%A4%82%E0%A4%AE%E0%A4%BE-%E0%A4%A6%E0%A5%81%E0%A4%88-%E0%A4%AA%E0%A4%9F%E0%A4%95-%E0%A4%AD%E0%A5%82%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%95%E0%A5%8B-%E0%A4%A7%E0%A4%95%E0%A5%8D%E0%A4%95%E0%A4%BE 1 40871 0 1
+/admin/popup 3 72897 0 0
+/admin/ne_ws/edit/132 2 64162 0 0
+/sub_category 3 102176 0 0
+/admin/videos/edit/4 1 22468 0 0
+/show/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B8 6 487350 0 0
+/news/%E0%A4%A8%E0%A4%B5-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%95-%E0%A4%B0%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%B2-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%A4,-%E0%A4%9B%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%BE%E0%A4%88%E0%A4%B2-%E0%A4%98%E0%A5%81%E0%A4%81%E0%A4%98%E0%A5%81%E0%A4%B0%E0%A5%82-%E0%A4%AC%E0%A4%BF%E0%A4%AE%E0%A5%8B%E0%A4%9A%E0%A4%A8 1 35347 0 0
+/category/add 2 43939 0 0
+/admin/advertise/edit/2 9 242955 0 0
+/news/%E0%A4%B8%E0%A4%82%E0%A4%98%E0%A4%BF%E0%A4%AF-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80-%E0%A4%AB%E0%A5%8B%E0%A4%B0%E0%A4%AE-%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%95%E0%A5%8B%E0%A5%87-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%BE-%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%83-%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%AC-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%A4 1 46965 0 0
+/news/%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%8B-%E0%A4%AA%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A5%8B-%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9F%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F-%27%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9F%E2%80%93%E0%A5%A7%27-%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%9F-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%AA%E0%A4%A3 1 44575 0 0
+/show/14 1 31251 0 0
+/subcategory/13 1 20217 0 0
+/subcategory/26 2 40442 0 0
+/admin/ne_ws/edit/19 2 73350 0 0
+/show/24 1 24745 0 0
+/admin/popup/add 2 52836 0 0
+/news/%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2%E0%A4%95%E0%A5%8B-%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%81-%E0%A4%9C%E0%A4%A8%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A5%83%E0%A4%A4%E0%A4%BF-%E0%A4%AF%E0%A5%81%E0%A4%B5%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%AC%E0%A4%AE%E0%A4%BE-%E0%A4%86%E0%A4%AC%E0%A4%A6%E0%A5%8D%E0%A4%A7-%E0%A4%A4%E0%A5%80%E0%A4%A8-%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%96%E0%A5%87%E0%A4%B2%E0%A4%BE%E0%A4%A1%E0%A5%80-%E0%A4%AF%E0%A5%81%E2%80%93%E0%A5%A7%E0%A5%AC-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%95%E0%A4%BE-%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%BF-%E0%A4%9B%E0%A4%A8%E0%A5%8B%E0%A4%9F 1 43826 0 0
+/news/edit/16 2 68100 0 0
+/news/%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A5%87-%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2-%E0%A5%A7%E0%A5%A6-%E0%A4%B2%E0%A4%BE%E0%A4%B2%E0%A4%AE%E0%A4%BE-%E0%A4%97%E0%A4%8F%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A5%80-%E0%A4%AD%E0%A4%BF%E0%A4%B7%E0%A4%A3-%E0%A4%86%E0%A4%97%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A5%80-%28%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%B8%E0%A4%B9%E0%A4%BF%E0%A4%A4%29 1 40442 0 0
+/subcategory/35 1 27124 0 0
+/news/%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%A8-%E0%A4%B2%E0%A4%BE%E0%A4%88%E0%A4%AB-%E0%A4%88%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2%E0%A4%AE%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%A4%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%AE-%E0%A4%B8%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8 13 548358 2 2
+/admin/advertise/change-status 1 81 0 0
+/admin/gallery/change-status 1 76 0 0
+/subcategory/25 1 35185 0 1
+/show/7 1 21712 0 0
+/cpanel 1 33934 0 0
+/news/%E0%A4%A6%E0%A5%87%E0%A4%B6-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8%E0%A4%95%E0%A5%8B-%E0%A4%AF%E0%A5%81%E0%A4%97%E0%A4%AE%E0%A4%BE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%B6-%E0%A4%97%E0%A4%B0%E0%A5%87%E0%A4%95%E0%A5%8B-%E0%A4%9B-:-%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%AA%E0%A5%8C%E0%A4%A1%E0%A5%87%E0%A4%B2-%28%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%B8%E0%A4%B9%E0%A4%BF%E0%A4%A4%29 3 134193 1 0
+/news/%E0%A4%AC%E0%A4%BE%E0%A4%97%E0%A4%A6%E0%A5%87%E0%A4%B5-%E0%A4%A6%E0%A5%81%E0%A4%97%E0%A5%8D%E0%A4%A7-%E0%A4%B8%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8B-%E0%A4%A6%E0%A5%81%E0%A4%97%E0%A5%8D%E0%A4%A7-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8-%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%B6%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%28%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%B8%E0%A4%B9%E0%A4%BF%E0%A4%A4%29 10 416663 3 3
+/admin/advertise/edit/5 2 54316 0 0
+/admin/permission/add 15 309220 0 0
+/news/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%95%E0%A5%8B-%E0%A4%85%E0%A4%B0%E0%A5%81%E0%A4%A3%E0%A4%BE%E0%A4%9A%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%AE%E0%A4%BE-%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A5%80-%E0%A4%AD%E0%A5%82%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA 1 40215 0 0
+/news/this-is-hupendra 3 72260 1 1
+/video 3 80581 0 1
+/show/22 1 25239 0 0
+/news/%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2%E0%A4%AE%E0%A4%BE-%E0%A4%B9%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8B-%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%BE-:-%E0%A4%98%E0%A4%B0%E0%A4%95%E0%A4%BE-%E0%A4%9B%E0%A4%BE%E0%A4%A8%E0%A4%BE-%E0%A4%89%E0%A4%A1%E0%A4%BE%E0%A4%8F,-%E0%A4%95%E0%A5%87%E0%A4%B0%E0%A4%BE-%E0%A4%96%E0%A5%87%E0%A4%A4%E0%A5%80%E0%A4%B2%E0%A4%BE%E0%A4%88-%E0%A4%A8%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A4 5 226666 0 0
+/admin/media/store/1 1 0 0 0
+/news/%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A4%B5%E0%A5%80%E0%A4%95%E0%A5%8B-%E0%A4%A7%E0%A5%8B%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%BE-%E0%A4%9A%E0%A5%8C%E0%A4%A7%E0%A4%B0%E0%A5%80-%E0%A4%97%E0%A4%BE%E0%A4%88-%E0%A4%AB%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%AE%E0%A4%BE-%E0%A5%A9%E0%A5%A6-%E0%A4%B2%E0%A4%BE%E0%A4%96%E0%A4%95%E0%A5%8B-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BF 1 41421 0 0
+/public/page/subcategory/%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B 1 21107 0 1
+/news/%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80-%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%AD%E0%A4%8F%E0%A4%B0-%E0%A4%B9%E0%A5%81%E0%A4%A6%E0%A5%88%E2%80%9C%E0%A4%A8%E0%A5%8D,-%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%A8%E0%A4%B6%E0%A5%80%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80-%E0%A4%B9%E0%A5%81%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%9B 1 45281 0 1
+/admin/ne_ws/edit/41 2 60418 0 0
+/admin/media/add/3 2 44598 0 0
+/show/%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%A8%E0%A5%87%E0%A4%B6 4 166911 0 0
+/galleries/2 1 24314 0 0
+/user/index 1 37603 0 0
+/show/19 1 29596 0 0
+/page/subcategory/%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%A8%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80 1 21089 0 1
+/subcategory/19 1 30754 0 1
+/public/backend/plugins/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff 1 104000 0 0
+/public/category/delete 1 56 0 0
+/news/%E0%A4%97%E0%A5%8B%E0%A4%AA%E0%A4%BE%E0%A4%B2-%E0%A4%A0%E0%A4%BE%E0%A4%95%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8B-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%83%E0%A4%AF%E0%A4%BE-%E0%A4%83-%E0%A4%AE%E0%A4%BE%E0%A4%AA%E0%A4%A6%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%95%E0%A4%BE-%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%AE%E0%A4%BE-%E0%A4%AE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%A8 4 156372 0 0
+/news/%E0%A4%A8%E0%A5%87%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%BF-%E0%A4%94%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%95%E0%A5%8B%E0%A5%87-%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%95%E0%A4%BE-%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%BF-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%80-%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A5%80-%E0%A4%8F%E0%A4%95%E0%A4%A4%E0%A4%BE-%E0%A4%AE%E0%A4%9E%E0%A5%8D%E0%A4%9A-%E0%A4%87%E0%A4%9C%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%B8%E0%A4%B9%E0%A4%AF%E0%A5%8B%E0%A4%97 1 44037 0 0
+/news/%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%97%E0%A4%A2-%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%95%E0%A4%AA-:-%E0%A4%A8%E0%A4%B5-%E0%A4%9C%E0%A4%A8%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A5%83%E0%A4%A4%E0%A4%BF-%E0%A4%AF%E0%A5%81%E0%A4%B5%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%B0-%E0%A4%AC%E0%A4%BF%E0%A4%B0%E0%A4%97%E0%A4%82%E0%A4%9C-%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%88%E0%A4%9F%E0%A5%87%E0%A4%A1-%E0%A4%AB%E0%A5%81%E0%A4%9F%E0%A4%AC%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%B5-%E0%A4%AD%E0%A4%BF%E0%A4%A1%E0%A5%8D%E0%A4%A8%E0%A5%87 5 166734 2 2
+/category 4 177134 0 1
+/category/change-status 1 78 0 0
+/public/page/subcategory/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE 1 21195 0 0
+/news/%E0%A4%AC%E0%A4%BE%E0%A4%97%E0%A4%AE%E0%A4%A4%E0%A5%80-%E0%A4%96%E0%A5%8B%E0%A4%B2%E0%A4%BE%E0%A4%AE%E0%A4%BE-%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A4%B0%E0%A4%AC%E0%A5%8B%E0%A4%9F%E0%A4%AE%E0%A4%BE-%E0%A4%B8%E0%A4%B0%E0%A4%B0 1 36126 0 0
+/laravel-filemanager/upload 5 10 0 0
+/admin/videos/add 5 106989 0 0
+/admin/advertise/delete 2 118 0 0
+/subcategory/29 1 22991 0 0
+/admin/videos/edit/3 1 22603 0 0
+/show/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6%20%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%A3 10 372941 1 2
+/public/dashboard 7 125989 0 0
+/news/edit/2 1 26639 0 0
+/public/global_assets/css/icons/icomoon/fonts/icomoon.woff 3 654912 0 0
+/sub_category/add 1 22368 0 0
+END_SIDER

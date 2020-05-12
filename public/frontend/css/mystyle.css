@@ -1,0 +1,222 @@
+.latest-news h1 {
+    margin-top: 30px;
+    text-align: center;
+}
+.latest-news .content-image {
+    padding: 20px 30px 20px 20px;
+    margin: 0 auto;
+    color: #000;
+}
+.latest-news .content-image  p {
+    font-size: 50px;
+    font-size: 24px;
+    line-height: 37px;
+    text-align: center;
+
+}
+.top-heading ul{
+    text-align: center;
+}
+.top-heading ul li {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.samachar ul li {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.sama-img .card-body span{
+    padding-left:10px;
+    padding-right:10px;
+}
+.sama-img .card-body span i {
+    padding-left: 5px;
+    padding-right: 3px;
+}
+.sama-side-title a {
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.sama-side-image span,.sama-side-image span i {
+     padding-left:5px;
+     padding-right:5px;
+    padding-top: 5px;
+ }
+.custom-media .media-left {
+    width: 45%;
+    float: left;
+    margin-right: 10px;
+}
+.custom-media .media-body h4{
+    font-size: 16px;
+}
+.card-btn {
+    display: block;
+    margin-top: 20px;
+}
+.card-btn span {
+    display: inline-block;
+}
+.card-btn span{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.card-btn span i {
+    padding-right: 2px;
+    padding-left: 2px;
+}
+.aboard-list ul li {
+    display: inline;
+}
+.entertain-list {
+    display: block;
+}
+.entertainment ul span {
+    display: inline-block;
+}
+.media-footer {
+    margin-top: -17px;
+    margin-bottom: 10px;
+}
+.media-footer span {
+    margin-right: 30px;
+}
+.media-footer span i {
+    margin-right:5px;
+}
+.single-page-side .widget-title{
+    text-align: center;
+    background: #366ce7;
+    color: #fff;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.lifestyle-side-image {
+    margin-bottom: 10px;
+}
+.lifestyle-side-content span, .lifestyle-side-content span i {
+    margin-right: 5px;
+}
+.video-image img {
+    width:100%;
+    margin-bottom: 20px;
+}
+.sub-content-area, .sub-content-area .article {
+    margin-top: 40px;
+}
+.sub-content-area .article .article-img{
+    margin-bottom: 20px;
+}
+.sub-content-area .article .content .content-link {
+    display: block;
+}
+.sub-content-area .article .content .content-link span {
+     display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.sub-content-area .article .content .content-link span i {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.sub-category-list ul li{
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: 10px;
+    padding: 5px 15px 0px 15px;
+    border: 1px solid #000000;
+}
+.sub-category-list ul li a {
+    text-decoration: none;
+}
+#thover {
+    position: fixed;
+    background: #000;
+    width: 100%;
+    height: 100%;
+    opacity: 0.9;
+    z-index: 3333; top:0;
+}
+#tpopup {
+    position: absolute;
+    width: 600px;
+    background: #000;
+    left: 50%;
+    top: 3%;
+    border-radius: 5px;
+    margin-left: -320px;
+    margin-top: -150px;
+    text-align: center;
+    box-shadow: 0 0 10px 0 #000;
+    z-index: 444444;
+}
+#tclose {
+    position:absolute;
+    background:black;
+    color:white;
+    right:-15px;
+    top:-15px;
+    border-radius:50%;
+    width:30px;
+    height:30px;
+    line-height:30px;
+    text-align:center;
+    font-size:8px;
+    font-weight:bold;
+    font-family:'Arial Black', Arial, sans-serif;
+    cursor:pointer;
+    box-shadow:0 0 10px 0 #000;
+}
+.category-title  {
+    border-bottom: 1px solid;
+    margin-bottom: 14px;
+}
+.category-title h2 {
+    margin-bottom: 0px;
+}
+.first-image {
+    margin-bottom: 20px;
+}
+.second-image .add-img-wrap{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.list-news {
+
+}
+.list-news li {
+    padding: 10px 0px 8px 10px;
+    font-size: 20px;
+    border-bottom: 1px solid #000;
+}
+.list-side {
+    margin-bottom: 21px;
+    display: inline-block;
+    position: relative;
+
+}
+.list-side .list-image {
+    width: 50%;
+    float: left;
+}
+.list-side .list-title {
+    width: 50%;
+    float: right;
+    padding-left: 10px;
+}
+.sama-side-image
+.card-img-top,
+.top-img,
+.aboard-iner img {
+    margin-bottom: 11px;
+
+}
+.content h4,
+.aboard-iner h3,
+.sama-side-title {
+    margin-top:10px;
+}
+

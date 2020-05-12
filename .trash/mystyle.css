@@ -1,0 +1,72 @@
+.latest-news h1 {
+    margin-top: 30px;
+    text-align: center;
+}
+.latest-news .content-image {
+    padding: 20px 30px 20px 20px;
+    margin: 0 auto;
+}
+.latest-news .content-image  p {
+    font-size: 50px;
+    font-size: 24px;
+    line-height: 37px;
+    text-align: center;
+
+}
+.top-heading ul{
+    text-align: center;
+}
+.top-heading ul li {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.samachar ul li {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.sama-img .card-body span{
+    padding-left:10px;
+    padding-right:10px;
+}
+.sama-img .card-body span i {
+    padding-left: 5px;
+    padding-right: 3px;
+}
+.sama-side-title a {
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.sama-side-image span,.sama-side-image span i {
+     padding-left:5px;
+     padding-right:5px;
+    padding-top: 5px;
+ }
+.custom-media .media-left {
+    width: 45%;
+    float: left;
+    margin-right: 10px;
+}
+.custom-media .media-body h4{
+    font-size: 16px;
+}
+.card-btn {
+    display: block;
+    margin-top: 20px;
+}
+.card-btn span {
+    display: inline-block;
+}
+.card-btn span{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.card-btn span i {
+    padding-right: 2px;
+    padding-left: 2px;
+}
+.aboard-list ul li {
+    display: inline;
+}

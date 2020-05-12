@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit backupGlobals="false"
+         backupStaticAttributes="false"
+         bootstrap="vendor/autoload.php"
+         colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         processIsolation="false"
+         stopOnFailure="false">
+    <testsuites>
+        <testsuite name="Unit">
+            <directory suffix="Test.php">./tests/Unit</directory>
+        </testsuite>
+
+        <testsuite name="Feature">
+            <directory suffix="Test.php">./tests/Feature</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist processUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">./app</directory>
+        </whitelist>
+    </filter>
+    <php>
+        <env name="APP_ENV" value="testing"/>
+        <env name="BCRYPT_ROUNDS" value="4"/>
+        <env name="CACHE_DRIVER" value="array"/>
+        <env name="MAIL_DRIVER" value="array"/>
+        <env name="QUEUE_CONNECTION" value="sync"/>
+        <env name="SESSION_DRIVER" value="array"/>
+    </php>
+</phpunit>
+        +===================================+
+        | New Account Info                  |
+        +===================================+
+        | Domain: bhupe.danphehosting.com
+        | Ip: 31.220.15.123 👎
+        | HasCgi: y
+        | UserName: bhupehost
+        | PassWord: 3OTmw5Uhv~cm
+        | CpanelMod: paper_lantern
+        | HomeRoot: /home
+        | Quota: 1 GB
+        | NameServer1: ns1.danphehosting.com
+        | NameServer2: ns2.danphehosting.com
+        | NameServer3:
+        | NameServer4:
+        | Contact Email: mdrsumit@gmail.com
+        | Package: Danphe-Pro-1GB
+        | Feature List: default
+        | Language: en
+        +===================================
+database->password=V!$wSCKS&{3T
+
+
+
+        +===================================+
+        | New Account Info                  |
+        +===================================+
+        | Domain: manage.nsonlinekhabar.com
+        | Ip: 185.213.24.10 👎
+        | HasCgi: y
+        | UserName: nsmanager
+        | PassWord: P=I0Jx1~b*1S
+        | CpanelMod: paper_lantern
+        | HomeRoot: /home
+        | Quota: unlimited
+        | NameServer1: ns5.danphehosting.com
+        | NameServer2: ns6.danphehosting.com
+        | NameServer3:
+        | NameServer4:
+        | Contact Email: nijbhup27@gmail.com
+        | Package: Package Dedicated
+        | Feature List: default
+        | Language: en
+         database
+user name :nsonlin
+        password:Nk@Mq}h]!r3R
+        +===================================+
+
+
+
+        IP 185.213.24.173 port 2222 username : root password : C3AR1swP2ePS5tj6j6
+
+        Https://ms3.danphehosting.com:2087
+        next IP 185.213.24.10 port 22 username : root password : 673IxC20Ck6NBKlriv
+        code
+            Database
+
+            username:nsonline_nsonlin
+            password:p}6tSP5*wZo1
+        ssh root@185.213.24.173  -p 22
+
+
+nsmanager
+V~f6#GOY_-}$
